@@ -1,4 +1,6 @@
 name: Eric Lawton 2
+title: Eric Lawton's web site
+description: A blog and a workbook
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
 
