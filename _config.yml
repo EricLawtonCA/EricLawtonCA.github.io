@@ -1,6 +1,8 @@
 name: Eric Lawton
-title: Eric Lawton's web site
-description: A philosophy workbook and a blog about it and life
+title: A philosophy workbook as a document and blog
+description: A social and political philosophy book with a blog annotating its construction
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
 github: [metadata]
+plugins:
+  - jekyll-seo-tag
