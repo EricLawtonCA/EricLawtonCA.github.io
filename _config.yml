@@ -1,6 +1,6 @@
 name: Eric Lawton
-title: A philosophy workbook as a document and blog
-description: A social and political philosophy book with a blog annotating its construction
+title: Better social systems for better lives
+description: A social and political philosophy workbook
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
 github: [metadata]

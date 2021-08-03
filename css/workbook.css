@@ -1,0 +1,18 @@
+blockquote p {
+ /*  font-size: 0.9rem; */
+  font-style: italic;
+  margin-left: 3rem ;
+  margin-right: 3rem ;
+  max-width: 60rem;
+}
+
+li {
+  font-size: 1.2rem;
+ /*  margin-left: 1.5rem ; */
+
+}
+nav li {
+  font-size: 1.7rem;
+ /*  margin-left: 1.5rem ; */
+
+}
