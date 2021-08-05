@@ -1,6 +1,6 @@
 Title: Philosophy Workbook
 Author: Eric Lawton
-<link rel="stylesheet" href="/css/workbook.css">
+
 # Human Understanding #
 The goal of these investigations is to understand human systems better, with the intention of being able to change them for the better.
 There are two main challenges in doing this.
