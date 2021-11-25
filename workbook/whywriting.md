@@ -10,6 +10,9 @@ We are in the midst of a climate crisis, brought on by the emissions produced by
 
 We are seeing continued genocide of Indigenous people and cultures wherever these survive.
 
+We are seeing increasing divisions between people as white supremacy and neoliberalism increase their visibility and spread hatred of people who aren’t white, aren’t straight, cis men, are disabled or aren’t “Christian” by their perverted definition.
+We’re seeing more nations and sub-national bodies sliding away from democracy, even in the limited form they have practised until now.
+
 The global economy is making a very small number of people extremely rich, with long life expectancies, while the majority of people are seeing little or no improvement in their lives; they live in poverty, in poor health, with minimal education often through many generations.
 
 The people in power or granted significant privilege are excluding the majority of people both through manipulative techniques addressed to potential supporters and directly through racism, sexism, homophobia, religious bigotry and other systemic barriers. Liberal Democracy is retreating from the already small foothold it had on political life. These massive injustices are supported by ignorance at best, and often by hatred and by violence.
@@ -29,7 +32,9 @@ By adapting some ways of thinking that I have found useful in understanding the 
 
 The reason you may benefit from reading is that you may find my analysis useful, or perhaps just the tools I use. Or maybe you will just learn from my mistakes.
 We may also both benefit from mutual collaboration. For the more complex problems that face us, the thoughts of individual thinker are of little value. They require more interdisciplinary, system-level thinking and acting than any individual is capable, even if the individual makes no errors which is impossible. As H.L. Menken said
-For every complex problem, there is an answer that is clear, simple, and wrong.
+
+> For every complex problem, there is an answer that is clear, simple, and wrong.
+
 Unfortunately, those answers are easy for politicians to sell, so we need to arm ourselves against them.
 
 My view of the world is that it is better if we work towards the common good, which at minimum includes ensuring that everyone has the opportunity to have a fulfilling life, with their basic needs for life, health, food and shelter met, regardless of the circumstances of their birth or the accidents that befall them through life. I think that we are social beings, so that community is as important as individuals. We cannot thrive without community any more than the liver can thrive without the rest of the body. If you are in general agreement with this, then you may find some of this useful.
@@ -43,4 +48,5 @@ These exclusions are because experience suggests that such people are too commit
 
 Many other people are doing more important work in organizing change, have far deeper knowledge than I do of particular situations and have developed or adapted their own thinking tools. I offer my collection of tools as something I have found useful so far and am developing further through writing this. They are yours to use, adapt or discard. Feel free to let me know if they are useful or not, through my Internet contact points. Even if this workbook is not useful for those doing the work, I hope that this will be of some use in encouraging people at least to avoid being obstacles to necessary change and perhaps even to learn enough to join the efforts to change things.
 
+*** 
 [^fn1]: Otherwise known as “Western”, though west of what? Includes the colonial cultures of Australia and New Zealand.
