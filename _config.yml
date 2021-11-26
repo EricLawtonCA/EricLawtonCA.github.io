@@ -6,3 +6,5 @@ permalink: /blog/:year/:month/:day/:title
 github: [metadata]
 plugins:
   - jekyll-seo-tag
+
+theme: jekyll-theme-midnight
