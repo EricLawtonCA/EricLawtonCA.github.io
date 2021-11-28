@@ -1,6 +1,3 @@
-Title: Philosophy Workbook
-Author: Eric Lawton
-
 # Why read this #
 The world is in a mess.
 
@@ -49,7 +46,7 @@ These exclusions are because experience suggests that such people are too commit
 Many other people are doing more important work in organizing change, have far deeper knowledge than I do of particular situations and have developed or adapted their own thinking tools. I offer my collection of tools as something I have found useful so far and am developing further through writing this. They are yours to use, adapt or discard. Feel free to let me know if they are useful or not, through my Internet contact points. Even if this workbook is not useful for those doing the work, I hope that this will be of some use in encouraging people at least to avoid being obstacles to necessary change and perhaps even to learn enough to join the efforts to change things.
 
 ***
-[Next: What to expect](whatexpect) \| [Return to Table of Contents](./index)
+[Previous: What to expect](acknowledgements) \| [Next: What to expect](whatexpect) \| [Return to Table of Contents](./index)
 
 ***
 
