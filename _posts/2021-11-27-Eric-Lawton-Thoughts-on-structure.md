@@ -1,4 +1,8 @@
-# Thoughts on structure
+---
+layout: post
+title: "Thoughts on structure"
+date: 2021-11-27
+---
 
 I’m finding that creating this by hand in mostly Markdown Language, with the fiddly bits in HTML and CSS is helping with my thinking, even though it can be at bit painful.
 Yesterday, GitHub went down and I didn’t realise because I was testing this locally. However, the references back to theme files on GitHub weren’t found so everything was messed up so I tried to fix what was not my error. Sigh.
