@@ -1,6 +1,7 @@
-* Workshops
-** First Workshops On Capitalism
-*** Basic Bullshit Detection Tools
+## First Workshops On Capitalism
+A first round of workshops on capitalism, using some basic tools. This will be followed by further rounds as I develop further tools.
+
+## Basic Bullshit Detection Tools
 The tools to be used in this workshop are some basic, logical bullshit detection tools, centred around detecting ways of making false statements. The system I analyse is Capitalism.
 
 The Oxford English Dictionary defines this as
@@ -43,7 +44,7 @@ False repetitions are often used by establishing the truth based on one meaning 
 The different types of system have more of a family resemblance, just as you might have three cousins with one sharing features with the second who in turn shares a different set of features with the third. It’s clear they are all related, even though there is little in common between the first and the third. This analogy was proposed by the philosopher Wittgenstein and I will use it again in the workshops, and will explain it and its uses in more detail in Family Resemblance in the Finished Tools section.
 
 ***
-[Previous: Workshops; Basic bullshit detection](whatexpect) \| [Next: Workshops; Lies, Bullshit and Doublethink](liesbsdoublethink) \| [Return to Table of Contents](./index)
+[Previous: What to Expect from this workbook](whatexpect) \| [Next: Workshops; Lies, Bullshit and Doublethink](liesbsdoublethink) \| [Return to Table of Contents](./index)
 
 ***
 

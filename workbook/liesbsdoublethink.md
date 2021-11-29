@@ -35,4 +35,4 @@ Yet even though it is so patently false, people will get very angry when people 
 This is an example that is clearly and frequently demonstrated in public, but it shows how ideas with no grounds in evidence can be well-rooted in our minds, even when they contradict other, well-grounded, ideas that we hold. It takes a lot of hard work to eradicate them. Doublethink is very real.
 
 ***
-[Previous: Workshops; Basic bullshit detection](basicbsdetection) \| [Next: Workshops; Capitalism and Principles](basicbsdetection) \| [Return to Table of Contents](./index)
+[Previous: Workshops; Basic bullshit detection](basicbsdetection) \| [Next: Workshops; Capitalism and Principles](capitalismandprinciples) \| [Return to Table of Contents](./index)

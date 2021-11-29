@@ -1,3 +1,8 @@
+# Workshops
+A series of workshops on many topics concerning the state of the Eurocentric social systems and the global environment today.
+
+## Understanding and Certainty
+
 Have you ever had that feeling of certainty over a “fact” but found out you were wrong?
 Have you ever had that “aha” feeling when you had been struggling to understand something and suddenly it all fit together and became clear?
 
@@ -24,3 +29,7 @@ Another part is our inclination to believe things if we are better off with a fa
 
 And this kind of influence on understanding can also come from the sense of well-being we get from being in peer groups who think in particular ways, whether this be social, political, religious or any other.
 All of these social influences on our beliefs and understanding are another reason to think that Margaret Thatcher’s famous dictum “there is no such thing as society, there are only individuals and families” is completely backwards. Of course we can identify individual humans, but their beliefs are so dependent on their social connections, including education, work, media they follow, peer groups, that it is closer to the truth to say we have few thoughts of our own that we did not acquire from those connections, than it is to say that the thoughts in our head are purely our own, individual thoughts.  
+***
+[Previous: What to expect](whatexpect) \| [Next: Capitalism and Principles](capitalismandprinciples) \| [Return to Table of Contents](./index)
+
+***
