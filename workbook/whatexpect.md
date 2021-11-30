@@ -41,22 +41,25 @@ I will only look at Eurocentric systems. Other nations and cultures have other s
 
 Since many of the systems monitor themselves, producing huge volumes of statistics and reports and, in the case of the media and other institutions, monitor other systems, we can use existing results as the initial Monitor step of our loop and begin with the analysis. This gives a logical entry point to start the loop.
 
-![Workshop overview](/images/Workshop-Overview.jpg)
+<img src="/assets/images/Workshop-Overview.jpg" alt="Workshop overview, described below" class=diagram />
 
 Figure: 1 Workbook overview
 
-|<b>Diagram description</b>|
+I use several types of diagram in this workbook. I find them helpful as thinking tools. Of course, some people are not able to read the diagrams or do not find them useful. Others may need some help for the first few times I use diagrams of a particular kind. For all these people, I describe the content of the diagram as well as I can in words, immediately following the diagram. It will appear highlighted in this colour so people who are comfortable with the diagram form can skip it if they wish.
 
-|I use several types of diagram in this workbook. I find them helpful as thinking tools. Of course, some people are not able to read the diagrams or do not find them useful. Others may need some help for the first few times I use diagrams of a particular kind. For all these people, I describe the content of the diagram as well as I can in words, immediately following the diagram. It will appear highlighted in this colour so people who are comfortable with the diagram form can skip it if they wish. |
+<div class="figdesc">
+<h3>Diagram description</h3>
 
-|The workbook is structured around the loop described above, with a central loop going from Analyze to Plan to Execute to Monitor and then back to Analyse. A secondary loop goes from Design to Plan and back to Plan. |
+<p>The workbook is structured around the loop described above, with a central loop going from Analyze to Plan to Execute to Monitor and then back to Analyse. A secondary loop goes from Design to Plan and back to Plan.</p>
 
-| The current requirements represent the intentions behind the system. They may include things like a Vision for the system, the guiding Ethical Principles and Goals and Objectives, which will be explained further as we go. |
+<p>The current requirements represent the intentions behind the system. They may include things like a Vision for the system, the guiding Ethical Principles and Goals and Objectives, which will be explained further as we go.</p>
 
-| There is a set of thinking tools which will be used for all the steps. They include tools of language and logic, and for systems thinking, which will be the focus of the workbook, with some discussion of mathematical tools, especially statistics. |
+<p>There is a set of thinking tools which will be used for all the steps. They include tools of language and logic, and for systems thinking, which will be the focus of the workbook, with some discussion of mathematical tools, especially statistics.</p>
 
-| The output of planning is, naturally, a set of plans, which include issues, risks, costs, schedule, feasibility and more. These will be described later.
-Finally, the loop concerns itself with specific systems, both current and future, which include Government, Media, Research, the Economy, Unions, Education, Infrastructure, the Biosphere and many more. |
+<p>The output of planning is, naturally, a set of plans, which include issues, risks, costs, schedule, feasibility and more. These will be described later.</p>
+
+<p>Finally, the loop concerns itself with specific systems, both current and future, which include Government, Media, Research, the Economy, Unions, Education, Infrastructure, the Biosphere and many more. </p>
+</div>
 
 In order to analyse the current systems, it is useful to have some idea of what we would ideally want our systems to do, so that we can see how, according to our monitoring, they do what we would like them to do. This will not be the same in detail for everyone; uniform systems and cultures are not desirable. However, we are often told why systems such as capitalism and liberal democracy are valuable, so we can start by seeing if they conform to their own ideals and to those which have been arrived at after much debate, such as the United Nations declarations on Human Rights and the Rights of Indigenous Peoples, and various rights embedded in the constitutions of eurocentric countries. Even a cursory look suggests a large gap between such principles an the actual behaviour of the current colonialist systems that seek to assimilate Indigenous and minority cultures.
 
@@ -87,4 +90,4 @@ The original MAPE loop idea came from the design of autonomic systems: computer 
 
 [^fn1]: Oxford English Dictionary
 
-[^fn2]: I have adapted this from the MAPE loop commonly used in systems engineering, by adding the **D**esign step which is needed to effect real change, but is not yet remotely within the capability of automated systems, regardless of the claims to the contrary of some people working on Artificial Intelligence. An Internet search will reveal many examples, such as https://www.mdpi.com/1424-8220/19/13/2996
+[^fn2]: I have adapted this from the MAPE loop commonly used in systems engineering, by adding the **D**esign step which is needed to effect real change, but is not yet remotely within the capability of automated systems, regardless of the claims to the contrary of some people working on Artificial Intelligence. An Internet search will reveal many examples, such as [Aldinucci, Marco & Danelutto, Marco & Kilpatrick, Peter & Montangero, Carlo & Semini, Laura. (2013). Managing Adaptivity in Parallel Systems. 10.1007/978-3-642-35887-6_11. ](https://www.researchgate.net/figure/MAPE-loop-in-autonomic-management-the-control-flow-is-represented-by-solid-arrow-lines_fig1_236118155)

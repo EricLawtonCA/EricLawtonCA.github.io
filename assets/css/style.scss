@@ -2,3 +2,14 @@
 ---
 
 @import "jekyll-theme-midnight";
+
+img.diagram {
+  height: auto;
+  width: 95%;
+}
+
+div.figdesc {
+  background-color: MidnightBlue ;
+  width: 90%;
+  margin-left: 5% ;
+}
