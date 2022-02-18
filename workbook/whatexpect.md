@@ -51,7 +51,7 @@ Figure: 1 Workbook overview: MADPE loop
 
 I use several types of diagram in this workbook. I find them helpful as thinking tools. Of course, some people are not able to read the diagrams or do not find them useful. Others may need some help for the first few times I use diagrams of a particular kind. However, they are not necessary for understanding the material but are merely a visual summary of the text. I will not provide a seperate detailed description of the diagrams, because they are redundant.
 
-The[[ Use a  <div class="figdesc"> for these on the web site.]] workbook is structured around the loop described above, with a central loop going from Analyze to a smaller loop of Design and Plan a future, based on the results of the analysis, then to Execute the plans and then Monitor the results, from which we return to the Analyse phase to make sure the consequences are what we intended and too look at next steps.
+The workbook is structured around the loop described above, with a central loop going from Analyze to a smaller loop of Design and Plan a future, based on the results of the analysis, then to Execute the plans and then Monitor the results, from which we return to the Analyse phase to make sure the consequences are what we intended and too look at next steps.
 
 There are four rectangles positioned around that central loop, which represent our current requirements (what we would like to see in the future), the tools we will use to do the work, the resulting designs and plans and the current and future systems which are the objects we work on through this process.
 
