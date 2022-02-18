@@ -8,14 +8,18 @@ Each workshop will
 * Define a system which will be analysed in the project
 * Analyse the system using the tools
 * Suggest improvements to the tools
+* Suggest improvements to the systems (or explain why they should be abolished)
 
-The first pass will look at existing systems. The next part will imagine some possibly improved systems and apply the tools to see if they are in fact better.
+As you can see, this implies a continuous loop that can go on forever; at least until we have perfect systems and perfect understanding of them. Not likely in the next few millennia.
 
-To do that, we need some criteria against which we can evaluate the existing systems and proposed new ones.  
+There won’t be a lot of actually improved systems while I am writing this. It seems that the trend is in the opposite direction. However, we can and should imagine some possibly improved systems and apply the tools to see if they at least seem better. This is likely to require some radical changes — including abolition — to existing systems and the introduction of new ones. On the other hand, I am a little dubious about armed revolution, if only because many seem to turn out with armed men in charge. It may turn out to be the only way, but we would at least need a way to prevent them resulting in a dictatorship with only a vague promise of a people’s paradise in the far distant future.
+
+To do that, we need some criteria against which we can evaluate the existing systems and proposed new ones. These are what I would call our current requirements. As we iterate around the MADPE loop, we may find our requirements change as we become better equipped to imagine a better world, by understanding how our thinking has been constrained by the current systems. Some philosophers have used the term dialectics to refer to a similar process.
 
 The issues I think are important cannot be addressed merely by changing the thinking of individuals, but will require changing the structure and processes of human systems, as I hope I will demonstrate clearly. Systemic changes will require specific systems and communities to do the changing. That is why many of these tools are taken from work that is described as “systems thinking”, though I prefer the broader term “joined-up thinking” which used to be common in England, but appears less so as populist politicians have abandoned it for a public relations approach to persuasion, including empty slogans and a jovial character as a front-man for the party of the elite. “Synoptic” is another term for it which means both “A summary” (as in “synopsis”) and “taking or involving a comprehensive mental view”, so I sometimes use that too.
 
 In order to tackle complex issues, we have to circle around the issues many times, for several reasons.
+
 The first, inner loop is that we have to learn as we go. The projects will start with simplified versions of both tools and systems. As Daniel Dennett says in his book “From Bacteria to Bach and Back: The Evolution of Minds”:
 
 > Our path will have to circle back several times, returning to postponed questions that couldn’t be answered until we had a background that couldn’t be provided until we had the tools
@@ -41,31 +45,35 @@ I will only look at Eurocentric systems. Other nations and cultures have other s
 
 Since many of the systems monitor themselves, producing huge volumes of statistics and reports and, in the case of the media and other institutions, monitor other systems, we can use existing results as the initial Monitor step of our loop and begin with the analysis. This gives a logical entry point to start the loop.
 
-<img src="/assets/images/Workshop-Overview.jpg" alt="Workshop overview, described below" class=diagram />
+<img src="/assets/images/MADPE loop.jpg" alt="Workshop overview, described below" class=diagram />
 
-Figure: 1 Workbook overview
+Figure: 1 Workbook overview: MADPE loop
 
-I use several types of diagram in this workbook. I find them helpful as thinking tools. Of course, some people are not able to read the diagrams or do not find them useful. Others may need some help for the first few times I use diagrams of a particular kind. For all these people, I describe the content of the diagram as well as I can in words, immediately following the diagram. It will appear highlighted in this colour so people who are comfortable with the diagram form can skip it if they wish.
+I use several types of diagram in this workbook. I find them helpful as thinking tools. Of course, some people are not able to read the diagrams or do not find them useful. Others may need some help for the first few times I use diagrams of a particular kind. However, they are not necessary for understanding the material but are merely a visual summary of the text. I will not provide a seperate detailed description of the diagrams, because they are redundant.
 
-<div class="figdesc">
-<h3>Diagram description</h3>
+The[[ Use a  <div class="figdesc"> for these on the web site.]] workbook is structured around the loop described above, with a central loop going from Analyze to a smaller loop of Design and Plan a future, based on the results of the analysis, then to Execute the plans and then Monitor the results, from which we return to the Analyse phase to make sure the consequences are what we intended and too look at next steps.
 
-<p>The workbook is structured around the loop described above, with a central loop going from Analyze to Plan to Execute to Monitor and then back to Analyse. A secondary loop goes from Design to Plan and back to Plan.</p>
+There are four rectangles positioned around that central loop, which represent our current requirements (what we would like to see in the future), the tools we will use to do the work, the resulting designs and plans and the current and future systems which are the objects we work on through this process.
 
-<p>The current requirements represent the intentions behind the system. They may include things like a Vision for the system, the guiding Ethical Principles and Goals and Objectives, which will be explained further as we go.</p>
+Each of these four rectangles contain further elements. There are many more which could have been included, such as the tools for organising communities, but although I have some experience, I do not consider myself expert enough to offer comment more useful than others are providing.
 
-<p>There is a set of thinking tools which will be used for all the steps. They include tools of language and logic, and for systems thinking, which will be the focus of the workbook, with some discussion of mathematical tools, especially statistics.</p>
+The current requirements represent the intentions behind the system. They may include things like a Vision for the system, the guiding Ethical Principles and Goals and Objectives, which will be explained further as we go. I have de-emphasized Goals and Objectives as I believe these should be defined at the community level and I cannot speak for most of these.
 
-<p>The output of planning is, naturally, a set of plans, which include issues, risks, costs, schedule, feasibility and more. These will be described later.</p>
+There is a set of thinking tools which will be used for all the steps. They include tools of language and logic, and for systems thinking, which will be the focus of the workbook, with some discussion of mathematical tools, especially statistics.
 
-<p>Finally, the loop concerns itself with specific systems, both current and future, which include Government, Media, Research, the Economy, Unions, Education, Infrastructure, the Biosphere and many more. </p>
-</div>
+The output of planning is, naturally, a set of plans, which include issues, risks, costs, schedule, feasibility and more. These will be described later.
 
-In order to analyse the current systems, it is useful to have some idea of what we would ideally want our systems to do, so that we can see how, according to our monitoring, they do what we would like them to do. This will not be the same in detail for everyone; uniform systems and cultures are not desirable. However, we are often told why systems such as capitalism and liberal democracy are valuable, so we can start by seeing if they conform to their own ideals and to those which have been arrived at after much debate, such as the United Nations declarations on Human Rights and the Rights of Indigenous Peoples, and various rights embedded in the constitutions of eurocentric countries. Even a cursory look suggests a large gap between such principles an the actual behaviour of the current colonialist systems that seek to assimilate Indigenous and minority cultures.
+Finally, the loop concerns itself with specific systems, both current and future, which include Government, Media, Research, the Economy, Unions, Education, Infrastructure, the Biosphere and many more.
+
+In order to analyse the current systems, it is useful to have some idea of what we would ideally want our systems to do, so that we can see how, according to our monitoring, they do what we would like them to do. This will not be the same in detail for everyone; uniform systems and cultures are not only not desirable, they are . However, we are often told why systems such as capitalism and liberal democracy are valuable, so we can start by seeing if they conform to their own ideals and to those which have been arrived at after much debate, such as the United Nations declarations on Human Rights and the Rights of Indigenous Peoples, and various rights embedded in the constitutions of eurocentric countries. Even a cursory look suggests a large gap between such principles an the actual behaviour of the current colonialist systems that seek to assimilate Indigenous and minority cultures.
 
 My white, cis, heterosexual, male, opinions on what the world should look like are of no great interest or value. They are included only for the sake of illustrating the method and tools.
 
-Principles, including human rights, do not come from the sky but are worked out carefully so that in the end the systems that follow the principles seem to be the best we can do at the time. But eventually, times change; unforeseen problems become visible and the principles need changing. And people find ways of abusing and distorting them. Such as the principle of “free speech” being used by fascists demanding a platform.
+Principles, including human rights, do not come from the sky but are worked out carefully so that in the end the systems that follow the principles seem to be the best we can do at the time; another consequence of the circles described above.
+
+The principles here are ethical principles: guidelines on how we should behave and how systems should behave. There are other principles which are closer akin to design tools, such as the principle that systems should not have a single point of failure.
+
+But eventually, times change; unforeseen problems become visible and the principles need changing. And people will still find ways of abusing and distorting them, such as the use of the principle of “free speech” being used by fascists demanding a platform. They need careful wording and delimitation when they are specified.
 
 The tools in the box across the top are a few examples of some I have found useful. They all include elements of bullshit detection which became less necessary with leaders like Donald Trump or Boris Johnson, where the nonsense is so blatant that it hardly needs detection unless you are so bewitched by your fandom that you will believe that your leader is holding up 15 fingers if they insists that they are.
 
@@ -73,15 +81,15 @@ I have adapted the language and logic tools from my studies of academic philosop
 
 To gain even more understanding, more advanced techniques, such as mathematics or social sciences are required but I won’t go into any details of those here, just some indications of how and when they are useful with some basic ideas from statistics.
 
-To complete the cycle, in the rectangle on the right are elements of plans for making changes. Again there is a specialized discipline, project management, that provides a lot of tools for creating and representing such plans. I won’t do anything more here than sketch them to the level where it becomes obvious why this is more complex than most people seem to think, or that many politicians want you to think so that you do not realize how little competence they have, in skills that are required for their job.
+To complete the cycle, in the rectangle on the right are elements of plans for making changes. Again there is a specialized discipline, project management, that provides a lot of tools for creating and representing such plans. I won’t do anything more here than sketch them to the level where it becomes obvious why this is more complex than most people seem to think, or that many politicians want you to think so that you do not realize how little competence they have, in skills that are required for their job. However, there is a reason why several of the technical professions which are involved in larger projects, such as engineering, architecture and IT architecture require their practitioners to have a working knowledge of project management. This should include political decision makers. It is ridiculous that we elect people to those jobs with no relevant skills, let alone a  portfolio of work showing their projects and the end result.
 
 After the workshops you will find the finished products. “Finished” means at the end of the work in this workbook, which I hope will be useful to feed into other work. As the tools were refined and extended in each workshop, I will update a stand-alone section on each of the tools, which summarizes the lessons from the individual workshops. It follows a standard pattern of describing the tool, how to use it and how to assess when it is useful, when it is not. This can be used as a reference.
-
 This MADPE loop will guide the structure of the whole workbook. There is another, inner loop which I will use as a model for the structure of the individual workshops. That loop is used to refine our understanding of a particular situation, whether that is past, current or imagined future.
 
-An initial set of thinking tools is used to analyse the state of the situation and possibly to plan some changes, then that process is itself analysed by looking for difficulties that suggest that the thinking tools themselves need refining or replacing. I will call this inner loop Analyse, Plan, Critique (APC).
+I use an initial set of thinking tools to analyse the state of the current systems and possibly to plan some changes, then analyse the process I just went through, looking for difficulties that suggest that the thinking tools themselves need refining or replacing. I will call this inner loop Analyse, Plan, Critique (APC).
 
-The original MAPE loop idea came from the design of autonomic systems: computer systems that could adjust themselves to meet a limited change in circumstances according to pre-programmed rules, shifting resources from one task to another, but unable to change their design or to critique those rules. Fortunately, the engineers designing such systems already used a different word — autonomic — to refer to that limited capability, so the use of the word adaptive can be reserved to mean those more flexible systems  which can adapt more radically to change.
+I took the original MAPE loop idea from the design of autonomic systems: computer systems that could adjust themselves to meet a limited change in circumstances according to pre-programmed rules, shifting resources from one task to another, but unable to change their design or to critique those rules. Fortunately, the engineers designing such systems already used a different word — autonomic — to refer to that limited capability, so the use of the word adaptive can be reserved to mean those more flexible systems  which can adapt more radically to change, including the ability to change their own design.
+
 
 ***
 [Previous: Why read this](whywriting) \| [Next: Workshops; Basic bullshit detection](basicbsdetection) \| [Return to Table of Contents](./index)
