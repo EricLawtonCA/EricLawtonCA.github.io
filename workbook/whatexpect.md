@@ -59,9 +59,9 @@ Each of these four rectangles contain further elements. There are many more whic
 
 The current requirements represent the intentions behind the system. They may include things like a Vision for the system, the guiding Ethical Principles and Goals and Objectives, which will be explained further as we go. I have de-emphasized Goals and Objectives as I believe these should be defined at the community level and I cannot speak for most of these.
 
-There is a set of thinking tools which will be used for all the steps. They include tools of language and logic, and for systems thinking, which will be the focus of the workbook, with some discussion of mathematical tools, especially statistics.
-
 The output of planning is, naturally, a set of plans, which include issues, risks, costs, schedule, feasibility and more. These will be described later.
+
+The reason for the iteration between design and planning is that without a plan to implement a design, it is useless. It may be that it costs too much for the benefit it delivers or for the available resources, or it may be too risky, or any of many reasons which planning an implementation might reveal. However, the problems revealed may suggest a change in design which may provide the benefits hoped for, while being easier or safer to implement.
 
 Finally, the loop concerns itself with specific systems, both current and future, which include Government, Media, Research, the Economy, Unions, Education, Infrastructure, the Biosphere and many more.
 
@@ -92,8 +92,7 @@ I took the original MAPE loop idea from the design of autonomic systems: compute
 
 
 ***
-[Previous: Why read this](whywriting) \| [Next: Workshops; Basic bullshit detection](basicbsdetection) \| [Return to Table of Contents](./index)
-
+[Previous: Why read this](whywriting) \| [Next: Workshops; Social Systems Thinking](socialsystemsintro) \| [Return to Table of Contents](./index)
 ***
 
 [^fn1]: Oxford English Dictionary
