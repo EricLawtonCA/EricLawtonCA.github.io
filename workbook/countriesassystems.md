@@ -1,3 +1,5 @@
+# Sovereign States are a bad ideas
+
 ## Countries as Systems
 
 Countries are systems.  In some cases they were created fairly recently and extremely artificially by former colonisers, with boundaries having no relationship to the nations or tribes on whose territory they are formed.

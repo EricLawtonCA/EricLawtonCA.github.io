@@ -11,6 +11,6 @@ As I start this workshop, this appears to be a bad idea from the point of view o
 This in itself is reason enough to rethink the system. There are alternatives. Think of federal states, like the Canada or the UK. Scotland does not need to arm itself against England or Wales. For that matter, there is little fear in the near future that one EU country will invade another, in spite of their bloody history of doing just that. Indeed, this was one of the primary reasons for forming its predecessor organizations shortly after World War II.
 
 ***
-[Previous: Capitalism and Principles](capitalismandprinciples) \| [Next: Countries as Systems](countriesassystems) \| [Return to Table of Contents](./index)
+[Previous: Capitalism and Principles](capitalismandprinciples) \| [Clarifying the Concepts](clarifyingtheconcepts) \| [Return to Table of Contents](./index)
 
 ***
