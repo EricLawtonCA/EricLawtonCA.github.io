@@ -1,4 +1,5 @@
 # What to expect #
+
 This is a workbook, in the form of a series of workshops, in the sense of “a meeting at which a group of people engage in intensive discussion an activity on a particular subject or project”[^fn1], except that I don’t know if anyone will join in the discussion on social media.
 Each workshop introduces some methods and tools and then applies them to a problem. Because I am learning as I go, I will show my work and then at the end of the project, discuss whether I could have done better; whether they were effective and how they should be improved or either abandoned or at least limited in scope if they have proven too limited for the issue at hand.
 Some of the tools I use are less familiar to many people, so there is an initial section in which I introduce them before attempting to use them in workshops.

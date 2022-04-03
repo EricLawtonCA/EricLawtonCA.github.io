@@ -23,7 +23,7 @@ According to this definition, a clock is a system, but most systems theorists sp
 
 The following diagram[^fn1] shows some of the features which we need to understand in order to understand systems. It is called a System Context concept diagram. The “System Context” part is because I will often draw a similar diagram illustrating a particular system which I will call a system context diagram. Here, we have a rectangle labelled “System”, where in a particular system context diagram would be the name of the particular system in question. So I add the words “concept map” because it is more abstract and shows the names of the concepts which lie behind the parts of an actual system context.
 
-<img src="/assets/images/System context concept map.jpg" alt="System Context Concept Map - details in text" class=diagram />
+<img src="/assets/images/Abstract System Context diagram.jpg" alt="System Context Concept Map - details in text" class=diagram />
 
 Figure 1: System Context concept map
 
@@ -35,7 +35,9 @@ Adaptive systems have a history. We often gain insight into what the system does
 
 Systems interact with their environment and vice versa (which is why the line linking system and environment has an arrow on both ends). Those environments can include the physical environment, such as when a corporation extracts minerals and dumps waste, or can include larger systems of which they are a part, such as when a corporation is part of a capitalist economy. Understanding these interactions are essential to understanding their behaviour and importance.
 
-Finally, as far as this diagram goes, there are stakeholders who have interests in the system. I hesitated several times over this word, because when used in business contexts, it often has the meaning of “those who have acquired a stake in the company” - derived from the use in gambling where your stake is the amount you have bet. However, it also means anyone with an interest in the impacts of the system, such as the global public who have an interest in having clean air and a stable climate, which is affected by the emissions of corporations. That is the meaning I adopt here. We usually identify stakeholders by their role, rather than as individuals.
+Finally, as far as this diagram goes, there are stakeholders who have interests in the system. I hesitated several times over this word, because when used in business contexts, it often has the meaning of “those who have acquired a stake in the company” - derived from the use in gambling where your stake is the amount you have bet. However, it also means anyone with an interest in the impacts of the system, such as the global public who have an interest in having clean air and a stable climate, which is affected by the emissions of corporations. That is the meaning I adopt here. We usually identify stakeholders by their role, rather than as particular individuals.
+
+In social systems, we also have to recognise that the stakeholders may be a part of the system, which is one of the main reason that social systems thinking needs special care to ensure that the tools for generic systems thinking are applicable without change.
 
 Note the concept “Concern” which defines each of the distinct interests for each stakeholder with respect to each system. For example, the public may have interests in a justice system that they are protected from criminal or civil harm, that they have fair hearings if they are accused within the system, that judgements are appropriate for harms caused and that the amount paid to maintain the system is in balance with the benefits of the system when compared with those of other uses of public money.
 
@@ -48,4 +50,4 @@ For most voters, the purpose of a democracy may be to give them an equal say in 
 
 ***
 
-[^fn1]: Otherwise Adapted from a computer system architecture modeling standard,  http://www.iso-architecture.org/42010/cm/
+[^fn1]: Adapted from a computer system architecture modeling standard,  http://www.iso-architecture.org/42010/cm/

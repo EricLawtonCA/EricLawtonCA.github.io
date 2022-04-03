@@ -94,7 +94,7 @@ So it is reasonably clear that it is the meaningful activity that is protected h
 It is a while since I read the UDHR, I was not surprised by the amount of ambiguity, given the difficulty in getting more authoritarian states to sign it, but I was surprised how far almost all states are from implementing it. You may wish to read it yourself and see if you can complete for the four elements for principles for a few from the little that is given. I found it helpful in understanding what they could mean if it were seriously intended to build a community on the basis of these rights. I will revisit this later.
 
 ***
-\| [Previous: Workshops; Lies, Bullshit and Doublethink](liesbsdoublethink) \| [Next: Not written yet, just a stub](stub) [Return to Table of Contents](./index) \|
+\| [Previous: Workshops; Lies, Bullshit and Doublethink](liesbsdoublethink) \| [Next: Nation States are a Bad Idea](reasonfordoubt) \| [Return to Table of Contents](./index) \|
 
 ***
 
