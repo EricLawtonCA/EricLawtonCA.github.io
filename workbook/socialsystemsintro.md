@@ -25,21 +25,21 @@ The following diagram[^fn1] shows some of the features which we need to understa
 
 <img src="/assets/images/Abstract System Context diagram.jpg" alt="System Context Concept Map - details in text" class=diagram />
 
-Figure 1: System Context concept map
+Figure 1: Generic Key External Relationships of Social Systems
 
 The diagram shows that for many social systems — here a rectangle in the middle of the diagram — there are some associated concepts worth investigating.
 
 Systems may have a boundary, which defines the system because we can see what is inside and outside of the boundary. For example, humans have a skin which forms a boundary between them and the outside world, keeping infections out and our fluid contents in. Because social systems are often abstract, they often do not have a boundary, although their are exceptions such as countries and their borders.
 
-Adaptive systems have a history. We often gain insight into what the system does today by looking into that history.
+Adaptive systems have a history. We often gain insight into what the system does today by looking into that history. In particular, the various stakeholders’ interests are often in conflict, and understanding the history of how they protected  those interests helps to explain the current balance and, since they may have used deceit in protecting those interests, may expose interests that are not what they claim them to be.
 
 Systems interact with their environment and vice versa (which is why the line linking system and environment has an arrow on both ends). Those environments can include the physical environment, such as when a corporation extracts minerals and dumps waste, or can include larger systems of which they are a part, such as when a corporation is part of a capitalist economy. Understanding these interactions are essential to understanding their behaviour and importance.
 
 Finally, as far as this diagram goes, there are stakeholders who have interests in the system. I hesitated several times over this word, because when used in business contexts, it often has the meaning of “those who have acquired a stake in the company” - derived from the use in gambling where your stake is the amount you have bet. However, it also means anyone with an interest in the impacts of the system, such as the global public who have an interest in having clean air and a stable climate, which is affected by the emissions of corporations. That is the meaning I adopt here. We usually identify stakeholders by their role, rather than as particular individuals.
 
-In social systems, we also have to recognise that the stakeholders may be a part of the system, which is one of the main reason that social systems thinking needs special care to ensure that the tools for generic systems thinking are applicable without change.
+In social systems, we also have to recognise that the stakeholders may be a part of the system, which is one of the main reason that social systems thinking needs special care to ensure that the tools for generic systems thinking are applicable without change. This is represented on the diagram by the relationship “Stakeholder may be part of system”. It is also important to investigate to what extent the stakeholders are conscious of both the workings of the system and their roles within the system because that influences how likely they are to act as agents of change within the system. This is a particular distinguishing feature of social systems when compared with other complex adaptive systems.
 
-Note the concept “Concern” which defines each of the distinct interests for each stakeholder with respect to each system. For example, the public may have interests in a justice system that they are protected from criminal or civil harm, that they have fair hearings if they are accused within the system, that judgements are appropriate for harms caused and that the amount paid to maintain the system is in balance with the benefits of the system when compared with those of other uses of public money.
+Note the concept “Interest” which defines each of the distinct interests for each stakeholder with respect to each system. For example, the public may have interests in a justice system that they are protected from criminal or civil harm, that they have fair hearings if they are accused within the system, that judgements are appropriate for harms caused and that the amount paid to maintain the system is in balance with the benefits of the system when compared with those of other uses of public money. On the other hand, some of the participants in that system, such as police, may have interests in growing their budget and power.
 
 One particular type of concern of particular note is “purpose”. Contrary to some systems thinking books, systems do not usually have a single purpose. Purposes are conferred by people or by social institutions onto tools, including the systems they make. One person’s purpose for an iron may be to remove wrinkles from clothes; another person may use it to keep the door open.
 
