@@ -3,15 +3,21 @@ layout: default
 title: Blog
 ---
 <h1>{{ page.title }}</h1>
-This is mostly about the rationale for the contents of the site and the changes I make to it.
-I might post some of my photography, just to make things interesting.
-<br>
+<p>This blog is mostly a commentary on the contents of the site and the changes I make to it, in order to further illustrate the way my thinking evolves, as I update the contents of the workbook.
+</p>
+<p>
+It also includes some thoughts about the news which are relevant to the workbook.
+</p>
+<p>
+I might post some of my photography, just to make things interesting and provide some lighter content.
+</p>
+
 <br>
 <!-- This loops through the paginated posts -->
 {% for post in site.posts %}
   <h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
   <p class="author">
-    <span class="date">{{ post.date }}</span>
+    <span class="date">{{ post.date | date_to_long_string }}</span>
   </p>
   <div class="content">
     {{ post.excerpt }}
