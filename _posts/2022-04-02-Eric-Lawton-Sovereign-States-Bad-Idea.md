@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Sovereign States are a bad idea "
+title: "Sovereign States are a bad idea"
 date: 2022-04-02
 ---
 

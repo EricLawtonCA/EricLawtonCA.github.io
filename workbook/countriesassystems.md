@@ -47,7 +47,7 @@ One of the main powers that the state takes is the ability to manage the economy
 The diagram also says that a country may be a partial democracy. This is in a different colour to indicate that this is an attribute of a country, rather than a separate part.  This will be the subject of several later workshops. It also says that a nation may be a country and vice versa, though colonialism has made this increasingly rare. Generally the concept is most useful when a nation is seeking recognition of its sovereignty from colonial rule, since a nation is less of an artificial construct than a country.
 
 ***
-[Previous: Clarifying the Concepts](clarifyingtheconcepts) \| [Next: Not written yet, just a stub](stub) \| [Return to Table of Contents](./index)
+[Previous: Clarifying the Concepts](theconceptsofcountries) \| [Next: First Workshops On Democracy: Obvious Problems with Representative Democracy](problemswithdemocracy) \| [Return to Table of Contents](./index)
 
 ***
 [^fn1]: The use of “national” as an adjective blurs the distinction between country and nation but that is the common usage, as in “National anthem”.

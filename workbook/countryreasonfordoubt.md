@@ -1,8 +1,8 @@
-# Sovereign States are a Bad Idea
+# First workshops on Sovereign States
 The Earth is divided into sovereign states. This was not designed for our good and there are reasons to believe it is not.
 In this series workshops, I lay a foundation for understanding this system of systems and either justify the claim in the title or persuade myself otherwise.
 
-## Reason For Doubt
+## Problems with Countries
 
 The land on the Earth is currently divided into a set of patches of land together with a margin of sea around the land, except for Antarctica and a few small disputed patches. The United Nations recognizes each of these, together with an institution for each patch which it recognizes as the sovereign government of that patch, including everything in it, including all its people.
 

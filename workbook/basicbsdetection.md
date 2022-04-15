@@ -8,14 +8,16 @@ The Oxford English Dictionary defines this as
 
 > An economic and political system in which a country’s trade and industry are controlled by private owners for profit, rather than by the state.
 
-Even the dictionary illustrates one simple, logical error; there is a logical flaw in this definition. It seems to imply that there are only two choices, private owners for profit or the state. The last part, after the comma, should be omitted. There are others, including a cooperative model where trade and industry are controlled by communities or by non-profit organisations.
+Even the dictionary illustrates one simple, logical error with a logical flaw in its definition. It seems to imply that there are only two choices, private owners for profit or the state. The last part, after the comma, should be omitted. There are other choices, including a cooperative model where trade and industry are controlled by communities or by non-profit organisations.
 
 This is similar to the rule known by logicians as the law of the excluded middle, which says that either a statement or its negation must be true. Either this is a cat, or this is not a cat, there is no middle option. Except in this case, the two options are not negations of each other. The authors of the dictionary have been misled by the fact that the commonest options are the two given, *in our current capitalist environment*. But there is no logical reason why other ways are excluded.
+
 The law of the excluded middle is one of the so-called three laws of thought. Another is the law of non-contradiction, the idea that both a statement and its contradiction cannot both be true in the same context. Contradictions can include negations (This is a dog / this is not a dog) and statements that can’t both be true (This is a dog / this is a cat)[^fn1].
 
 Contradictions are often easy to detect. Donald Trump was famous for contradicting himself in the same speech. Others are harder because they may be disguised, such as by using different terms which are synonyms. (I am determined, which is a virtue; you are stubborn, which is not).
 
 A second way is to find that the statement is not supported by the evidence. This is more difficult. As limited beings with limited skills, we may not know how to assess the evidence. Even more so, we do not have the time to fact check every claim before we decide on a course of action.
+
 Which leads us to the need for a third way, which is to judge the people who are making the claims. Although this is sometimes called a logical fallacy, named ad hominem, this shows that strict logic has its failings. It may not be absolute proof that you have a cancer that a well-known oncologist has told you that they have reviewed all the tests and  all the images and that unfortunately you had a tumour and should have treatment, but you would be well advised to trust them more than a person who has no medical training who said that they had reviewed the same evidence but concluded that you had nothing wrong with you and shouldn’t listen to the doctor.
 
 This is also an illustration that understanding the world based on strict logic will never work. Here, we are using a theory supported by statistics. The theory is that under similar circumstances, people will behave in a similar fashion, on average. The statistics is how often they make false claims. We can’t know that accurately, but we can get a sense from how often they are caught out, though we also need to know how reliable those catchers are.
@@ -24,7 +26,7 @@ In this workshop, I will focus on the first and in a later one, on the third.
 
 Some of the contradictions in capitalism are found between the claims made for the way in which markets are the best way to assure efficiency, and the way in which large corporations actually behave.
 
-If it is far more efficient to have many, small, competing entities attempting to deliver goods and services, why do CEOs of large corporations buy out small ones instead of just buying their products from them?
+If it is far more efficient to have many, small, competing entities attempting to deliver goods and services, why do CEOs of large corporations buy out small ones instead of just buying their products from them? To be
 
 Why do they have their own in-house departments instead of inviting bids for their goods and services?
 Because they know that the shortened communication lines, speed of decision-making and many other factors can make it more efficient then buying everything on an open market.

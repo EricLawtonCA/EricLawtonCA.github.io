@@ -1,0 +1,19 @@
+---
+layout: default
+title: A Blog About This Site
+---
+
+	<h1>{{ page.title }}</h1>
+	This blog is mostly about the rationale for the contents of the site and the changes I make to it.
+	<br>
+	I might post some of my photography, just to make things interesting.
+	<br>
+	<br>
+	<ul class="posts">
+
+	  {% for post in site.posts %}
+	    <li><span>{{ post.date | date_to_string }}</span> » <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
+
+			</li>
+	  {% endfor %}
+	</ul>

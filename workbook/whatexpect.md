@@ -2,7 +2,9 @@
 
 This is a workbook, in the form of a series of workshops, in the sense of “a meeting at which a group of people engage in intensive discussion an activity on a particular subject or project”[^fn1], except that I don’t know if anyone will join in the discussion on social media.
 Each workshop introduces some methods and tools and then applies them to a problem. Because I am learning as I go, I will show my work and then at the end of the project, discuss whether I could have done better; whether they were effective and how they should be improved or either abandoned or at least limited in scope if they have proven too limited for the issue at hand.
-Some of the tools I use are less familiar to many people, so there is an initial section in which I introduce them before attempting to use them in workshops.
+Some of the tools I use are less familiar to many people, so there is an initial section in which I introduce them before attempting to use them in workshops. These are primarily systems thinking tools, adapted for thinking primarily about social systems, and language tools, adapted from linguistic philosophy for more everyday purposes, especially social systems.
+
+
 Each workshop will
 
 * Explain one or a few tools to be used for the first time, or in an expanded format
@@ -12,6 +14,14 @@ Each workshop will
 * Suggest improvements to the systems (or explain why they should be abolished)
 
 As you can see, this implies a continuous loop that can go on forever; at least until we have perfect systems and perfect understanding of them. Not likely in the next few millennia.
+
+The initial few workshops on each system will have a particular structure. They will:
+
+1. Give a few reasons to think that the systems have significant adverse effects or do not do what their proponents claim they do.
+2. Define the system, first by examining dictionary definitions, then by showing their limitations and how I adapt them for the purposes of this workbook
+3. Use the initial systems thinking tools to provoke and answer basic question about them.
+
+Later workshop structures will be more specific to each system.
 
 There won’t be a lot of actually improved systems while I am writing this. It seems that the trend is in the opposite direction. However, we can and should imagine some possibly improved systems and apply the tools to see if they at least seem better. This is likely to require some radical changes — including abolition — to existing systems and the introduction of new ones. On the other hand, I am a little dubious about armed revolution, if only because many seem to turn out with armed men in charge. It may turn out to be the only way, but we would at least need a way to prevent them resulting in a dictatorship with only a vague promise of a people’s paradise in the far distant future.
 
@@ -38,6 +48,7 @@ It stands for:
 * **E**xecute --- the plan
 
 The loop, shown at the centre the diagram below, provides a useful summary of the whole approach and I will use it as a model for the structure of the projects. The darker colours show the areas I will focus on. For people who cannot see the diagram well, everything in the diagram will be covered in the text, though the finer detail will be in later projects.
+
 The focus of this workbook is on the Analyse and Design and Plan steps, though I will comment on the other steps on occasion. It will also omit many other approaches, on the weak but necessary grounds that I do not have expertise worth sharing, especially non-eurocentric approaches, but including many parts of eurocentric knowledge in the humanities, arts, science, engineering and technology that are relevant but beyond my expertise.
 
 The rectangles surrounding the MADPE loop represent, starting at the bottom,  are some of the systems that I will look at. There are only a few of them included, by way of example, such as the government, the news media and the education system.
@@ -67,6 +78,10 @@ The reason for the iteration between design and planning is that without a plan 
 Finally, the loop concerns itself with specific systems, both current and future, which include Government, Media, Research, the Economy, Unions, Education, Infrastructure, the Biosphere and many more.
 
 In order to analyse the current systems, it is useful to have some idea of what we would ideally want our systems to do, so that we can see how, according to our monitoring, they do what we would like them to do. This will not be the same in detail for everyone; uniform systems and cultures are not only not desirable, they are . However, we are often told why systems such as capitalism and liberal democracy are valuable, so we can start by seeing if they conform to their own ideals and to those which have been arrived at after much debate, such as the United Nations declarations on Human Rights and the Rights of Indigenous Peoples, and various rights embedded in the constitutions of eurocentric countries. Even a cursory look suggests a large gap between such principles an the actual behaviour of the current colonialist systems that seek to assimilate Indigenous and minority cultures.
+
+Because of this, my initial workshops on each system start with a few major reasons to think they are not working in our best interests. Then I make a first attempt at a definition of the system, starting with a dictionary definition from the Oxford English Dictionary, with a look at Merriam-Webster if it differs significantly. Then I ask if there are problems with the usefulness of the definition, including clarity. If necessary, I introduce my own definitions, as close as possible to the dictionaries’ definitions.
+
+Next, I apply a framework for understanding social systems which I will outline in the next section, before starting the workshops. The framework isn’t intended to capture everything about every system, but rather to capture some questions that are usually worth asking.
 
 My white, cis, heterosexual, male, opinions on what the world should look like are of no great interest or value. They are included only for the sake of illustrating the method and tools.
 

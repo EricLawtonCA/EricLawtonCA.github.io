@@ -1,7 +1,10 @@
+---
 Title: Philosophy Workbook
 Author: Eric Lawton
+---
 
 # Why I am writing this and why you might want to read it #
+
 The world is in a mess.  We are in the midst of a deadly pandemic and climate and biodiversitiy crises, but people are resisting the means to end them; we have an illegitimate political system which claims to be a democracy but excludes most people from most decisions; we are continuing the genocide of Indigenous peoples, yet white people are wilfully ignorant because we benefit from it; fascism is rising again; although we have more information and knowledge widely available than ever before, yet it is often behind paywalls and overwhelmed by a flood of misinformation, lies and propaganda, to name but a few.
 
 This is the result of deliberate choices made by powerful people that are made in order to maintain their wealth and power, rather than to create systems that will provide a better life for most of us.
@@ -10,7 +13,9 @@ We must change this, and we can.
 
 These are my thoughts towards understanding our current situation and how we can change it for the better. I am an old, white, cisgender man, living on stolen land under the claimed jurisdiction of a state called Canada. I have been educated and socialised in a colonial, capitalist, representative democracy. It takes work to understand how the system works and --- since this system maintains itself by bombarding those within it with propaganda in its favour --- it takes work to see its fundamental flaws and to find ways to overcome them.
 
-I am working on two main aspects, though like most concepts they are not fully distinct: the intellectual tools which I use during the thinking and the results of applying those to my subject matter which are mainly humans in Eurocentric[^fn1] societies and the institutions we have built. You may find either of these useful or interesting. Even when I make mistakes, I find them instructive when I realise where I have gone wrong.
+When I say “my thoughts”, I mean mostly the thoughts of others that fit together with all the others jumbled in my brain, pruned by exercises like this, but on a smaller scale. As I approach my third quarter century, it’s time for a major pruning before I lose the capacity.
+
+I divide the work into two main aspects, though like most concepts they are not fully distinct: the intellectual tools which I use during the thinking and the results of applying those to my subject matter which are mainly humans in Eurocentric[^fn1] societies and the institutions we have built. You may find either of these useful or interesting. Even when I make mistakes, I find them instructive when I realise where I have gone wrong.
 
 You, too, might find it instructive. My path through life has been different from yours and so my collection of thinking tools is different. We are all more limited beings than we usually acknowledge but one of the ways we can overcome our individual limitations is through sharing and collaboration. Indeed, I would be delighted to collaborate with anyone who would like to, initially via my Twitter account @eric0lawton.  In "collaborate", I include strong, reasoned criticism, but not insults or mere contradiction. I realise that Twitter is not a good medium but we can find another channel if you are interested.
 

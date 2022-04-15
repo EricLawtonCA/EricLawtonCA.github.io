@@ -1,3 +1,7 @@
+# Introduction to tools
+
+## Introduction to Social Systems Thinking
+
 The core of what I have to say is the inversion of Margaret Thatcher’s famous dictum “there is no such thing as society, there are only individuals and families”.
 On the contrary, there is no such thing as an isolated individual or family, they are all products of societies.
 
@@ -5,13 +9,16 @@ We are given our humanity through the social institutions we inhabit and make. W
 
 We use tools made by others, which are possible only through social institutions. Although today many come from the global community through lengthy supply chains, this has always been so. Even the solitary individuals of literature, such as Robinson Crusoe, arrive in that state as adults, furnished with language and ideas for tools which they brought with them from their parent societies.
 
-Nothing about our individuality came fully-formed except through our membership in various social systems: family, country, school, economic system, media audience and many more.
+Very little about our individuality came fully-formed except through our membership in various social systems: family, country, school, economic system, media audience and many more.
 
 Nothing about our behaviour can be understood except in the context of those memberships and our behaviour can have much effect except by way of the support of those systems.
 
 That is why it is as important to understand our roles and their history in those systems as it is to understand our behaviour as individuals and its history.
 
-This is what I mean by social systems thinking.
+When should we think in terms of systems? “Almost always” is my basic rule of thumb, mostly just as a corrective to the fact that it is so rarely practised, but that  is perhaps a little too broad.
+
+One indicator that I find useful is to consider how common certain behaviour or thinking is within a given system. If some bad behaviour is exhibited by a small number of people, it may well be due to individual behaviour of those people, acquired before becoming part of the system, especially if that low background proportion is common in other systems. This is the police version of the “few bad apples” theme. They attribute bad behaviour to just a few people behaving badly against a background of mostly wonderful people.
+
 
 There are quite a few books and academic papers about systems thinking in general. I find that they have a lot of useful ideas, although all that I have read or skimmed show a bias towards the type of system that the author started with. It therefore seems likely that I share that bias so I make a conscious attempt to avoid it. I started my understanding of systems with that of computer systems as I generalised my experience from computer programmer, through application architect to solution architect, which was my final role before retirement.
 
@@ -35,7 +42,7 @@ Adaptive systems have a history. We often gain insight into what the system does
 
 Systems interact with their environment and vice versa (which is why the line linking system and environment has an arrow on both ends). Those environments can include the physical environment, such as when a corporation extracts minerals and dumps waste, or can include larger systems of which they are a part, such as when a corporation is part of a capitalist economy. Understanding these interactions are essential to understanding their behaviour and importance.
 
-Finally, as far as this diagram goes, there are stakeholders who have interests in the system. I hesitated several times over this word, because when used in business contexts, it often has the meaning of “those who have acquired a stake in the company” - derived from the use in gambling where your stake is the amount you have bet. However, it also means anyone with an interest in the impacts of the system, such as the global public who have an interest in having clean air and a stable climate, which is affected by the emissions of corporations. That is the meaning I adopt here. We usually identify stakeholders by their role, rather than as particular individuals.
+There are stakeholders who have interests in the system. I hesitated several times over this word, because when used in business contexts, it often has the meaning of “those who have acquired a stake in the company” - derived from the use in gambling where your stake is the amount you have bet. However, it also means anyone with an interest in the impacts of the system, such as the global public who have an interest in having clean air and a stable climate, which is affected by the emissions of corporations. That is the meaning I adopt here. We usually identify stakeholders by their role, rather than as particular individuals.
 
 In social systems, we also have to recognise that the stakeholders may be a part of the system, which is one of the main reason that social systems thinking needs special care to ensure that the tools for generic systems thinking are applicable without change. This is represented on the diagram by the relationship “Stakeholder may be part of system”. It is also important to investigate to what extent the stakeholders are conscious of both the workings of the system and their roles within the system because that influences how likely they are to act as agents of change within the system. This is a particular distinguishing feature of social systems when compared with other complex adaptive systems.
 
@@ -45,8 +52,10 @@ One particular type of concern of particular note is “purpose”. Contrary to 
 
 For most voters, the purpose of a democracy may be to give them an equal say in decision-making, but for the wealthy, it may be to provide an illusion of that so that they can retain power in proportion to their wealth. This conflict, together with the history of eurocentric democracy which resulted from the struggle of the “lower orders” to wrest power first from the aristocracy and then from business owners, help us understand better why we have such an imperfect compromise which still mostly favours the rich. I will explore this in more detail later.
 
+A further addition to the diagram that is unique to social systems is that stakeholders may create or promote false images of the social system which are used as marketing tools to gain consent to the the current functioning of the system. For example, the pretence that free-markets are the most efficient way of producing goods and services or that representative democracy gives every voter an equal say in decision-making. These are often false histories. We are seeing these remade now in the USA where State lawmakers are legislating against what they call “Critical Race Theory” but are specifically aimed at reshaping history by suppressing facts about racism. We also see it in the received history in the UK where Empire has always been taught as a Good Thing, bringing civilisation to the world, with no mention of the horrors of colonialism, enslavement and resource extraction among others things.
+
 ***
-[Previous: What to expect](whatexpect) \| [Next: Workshops; Basic bullshit detection](basicbsdetection) \| [Return to Table of Contents](./index)
+[Previous: What to expect](whatexpect) \| [Next: First Workshops on Capitalism: Problems with Capitalism](basicbsdetection) \| [Return to Table of Contents](./index)
 
 ***
 

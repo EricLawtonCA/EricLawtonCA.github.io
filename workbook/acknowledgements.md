@@ -3,6 +3,8 @@ title: Philosophy Workbook
 author: Eric Lawton
 ---
 
+# Acknowledgements
+
 I am writing this workbook on the traditional territory of the Mississauga branch of the Ojibwa Nation. Although the land was claimed to have been ceded in 1923 via the Williams Treaties, it was agreed by Canada that the treaties were not valid and they have been renegotiated.
 
 A new settlement was signed by the [Williams treaties First Nations](https://williamstreatiesfirstnations.ca/) in 2018 which included an apology, additional compensation and a promise to continue the process "in the spirit of reconciliation and partnership".
