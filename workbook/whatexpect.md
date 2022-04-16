@@ -57,9 +57,10 @@ I will only look at Eurocentric systems. Other nations and cultures have other s
 
 Since many of the systems monitor themselves, producing huge volumes of statistics and reports and, in the case of the media and other institutions, monitor other systems, we can use existing results as the initial Monitor step of our loop and begin with the analysis. This gives a logical entry point to start the loop.
 
+![Workshop overview, described in detail in the text](/assets/images/MADPE loop.jpg "Workshop overview, described in detail in the text")
 <img src="/assets/images/MADPE loop.jpg" alt="Workshop overview, described below" class=diagram />
 
-Figure: 1 Workbook overview: MADPE loop
+Figure 1: Workbook overview: MADPE loop
 
 I use several types of diagram in this workbook. I find them helpful as thinking tools. Of course, some people are not able to read the diagrams or do not find them useful. Others may need some help for the first few times I use diagrams of a particular kind. However, they are not necessary for understanding the material but are merely a visual summary of the text. I will not provide a seperate detailed description of the diagrams, because they are redundant.
 
