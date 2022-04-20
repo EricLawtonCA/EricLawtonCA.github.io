@@ -6,7 +6,7 @@ Countries are systems.  In some cases they were created fairly recently and extr
 
 Here is a first attempt to create a Key External Relationships Diagram for a country, by taking the key external relationships for a generic social system from the introduction to [Social Systems Thinking](socialsystemsthinking), and making it more specific.
 
-<img src="/assets/images/Generic Country System Context.jpg" alt="Generic Country System Context diagram - details in text" class=diagram />
+<img src="/assets/images/Generic Country System Context.jpg" alt="External relationships for a generic country, described in detail in the text" title="External relationships for a generic country, described in detail in the text" class=diagram />
 
 Figure 1: System Context Diagram for a generic country.
 
@@ -26,11 +26,14 @@ The physical environment is the land, sea and air within the physical boundaries
 
 The physical boundary is enforced by physical controls such border guards and military, but also by many virtual controls such as taxation on the flow of capital, constraints on foreign ownership of vital industries and land. Some of this is managed by the government, but some flows are managed by global and international institutions. They are also managed by other countries because in many cases the border is shared with one or more other countries.
 
+The abstract environment includes other countries, the global economy and international institutions which themselves may be part of the global economy and may also be stakeholders.
+
 All of these represent significant two-way interactions which will affect the internal components of a country.
 
 The following internal structure diagram summarises the internal parts for a generic country.
 
-<img src="/assets/images/Country component diagram.jpg" alt="Country component diagram - details in text" class=diagram />
+
+<img src="/assets/images/Country component diagram.jpg" alt="Country component diagram - details in text" title="Internal structure of a generic country, described in detail in the text" class=diagram />
 
 Figure 2: Internal Structure Diagram for a Generic Country.
 

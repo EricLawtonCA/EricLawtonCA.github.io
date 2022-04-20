@@ -57,8 +57,7 @@ I will only look at Eurocentric systems. Other nations and cultures have other s
 
 Since many of the systems monitor themselves, producing huge volumes of statistics and reports and, in the case of the media and other institutions, monitor other systems, we can use existing results as the initial Monitor step of our loop and begin with the analysis. This gives a logical entry point to start the loop.
 
-![Workshop overview, described in detail in the text](/assets/images/MADPE loop.jpg "Workshop overview, described in detail in the text")
-<img src="/assets/images/MADPE loop.jpg" alt="Workshop overview, described below" class=diagram />
+<img src="/assets/images/MADPE loop.jpg" alt="Workshop overview, described in detail in the text" title="Workshop overview, described in detail in the text" class=diagram />
 
 Figure 1: Workbook overview: MADPE loop
 
