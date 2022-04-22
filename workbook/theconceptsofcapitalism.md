@@ -2,10 +2,10 @@
 
 ## Clarifying the Concepts
 
-Just a stub, so far. Coming next.
+Just a stub, so far. Coming soon.
 
 ***
 
-[Previous: Problems with Capitalism](problemswithcapitalism) \| [Next: Just a stub](stub) \| [Return to Table of Contents](./index)
+[Previous: Problems with Capitalism](problemswithcapitalism) \| [Next: Capitalism as a System](capitalismasasystem) \| [Return to Table of Contents](./index)
 
 ***
