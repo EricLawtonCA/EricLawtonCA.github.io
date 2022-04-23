@@ -15,6 +15,7 @@ There are several dimensions to the governance mechanism. The one illustrated in
 Similarly, the economy may be a mix of communist, capitalist, socialist, cooperative or other, with mixed ownership of the means of production. Since a considerable amount of economic activity can happen within one of Earth’s gigantic corporations, the internal economy and governance of these is also important to each of us.
 Note that both the governance systems and the forms of economy can be mixed and that  they are mostly independent of each other, though less so for some forms such as communism or anarchism[^fn1].
 
+It is interesting to note that there is no global government. There are some global governance structures but they are severely limited by the power of the sovereign states.
 
 ***
 [Previous: Introduction to Social Systems Thinking](socialsystemsintro) \| [Next: First Workshops On Capitalism: Problems with Capitalism](problemswithcapitalism) \| [Return to Table of Contents](./index)

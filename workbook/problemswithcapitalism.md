@@ -24,7 +24,7 @@ This should be enough to make us suspect that perhaps capitalism is not the best
 
 ***
 
-[Previous: Introduction to Social Systems Thinking](socialsystemsintro) \| [Next: First Workshops On Democracy: Obvious Problems with Representative Democracy](theconceptsofcapitalism) \| [Return to Table of Contents](./index)
+[Previous: Global Human Social Systems](globalsystems) \| [Next: The Concepts of Capitalism](theconceptsofcapitalism) \| [Return to Table of Contents](./index)
 
 ***
 [^fn1]: How much does Nestle pay for water in Ontario? [https://cubetoronto.com/ontario/how-much-does-nestle-pay-for-water-in-ontario/](https://cubetoronto.com/ontario/how-much-does-nestle-pay-for-water-in-ontario/).
