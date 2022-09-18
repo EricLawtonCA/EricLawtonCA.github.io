@@ -4,6 +4,8 @@ title: "Sovereign States are a bad idea"
 date: 2022-04-02
 ---
 
+***Some of these links are broken, because I have restructured the workbook. I’m not going to fix them here, please just use the main [Table of Contents](/workbook/index)***
+
 My last entry started with "Once again, my blog entry needs to start with excuses for not having written anything for months, this time because of the illness of at least one household member, which hasn’t really left enough time for sleep, let alone personal time during which I was alert enough to write."
 
 It did not abate as I hoped. A family and household memger died, after a few days in pain in hospital.
