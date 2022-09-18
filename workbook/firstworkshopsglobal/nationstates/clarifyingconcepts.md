@@ -1,20 +1,34 @@
-# Sovereign States are a bad ideas
+# First Workshops: Global Systems
 
-## Clarifying the Concepts
+## Nation-States
 
-My first step in working through the value of this division into countries is to make sure I have useful definitions of the concepts, because the words “Country”, “State” or “Nation” tend to be used almost interchangeably instead of making some useful distinctions which can help with the analysis. As is often the case, some of the stakeholders have an interest in blurring the distinctions.
+### Clarifying the Concepts
+
+Now that I have laid the groundwork in the introduction, we can start the workshops.
+As mentioned in the introduction, we will go round a cycle of workshops using simpler versions of tools to confirm their utility, then refining the tools, or discarding them, based on how useful they were.
+
+I will work through the global systems at the end of the introduction, starting with the “countries” into which the world is divided (except for Antarctic and the oceans outside territorial limits). This first workshop applies some linguistic tools to help understand the concepts of nation, sovereign state or “country”.
+
+The words “Country”, “State” or “Nation” tend to be used almost interchangeably instead of making some useful distinctions which can help with the analysis. As is often the case, some of the interested parties have an interest in blurring the distinctions.
 
 The Oxford English Dictionary illustrates these distinctions, while providing a start on resolving them, which I will build on.
 
-- Nation
-   - a large body of people united by common descent, history, culture, or language, inhabiting a particular country or territory:
-- State
-  - 1 [a different concept, not relevant here]
-  - 2a a nation or territory considered as an organized political community under one government
-  - 2b an organized political unit or area forming part of a federal republic
-  - 3 the civil government of a country
-- Country
-  - a nation with its own government, occupying a particular territory:
+> **Nation**
+> - a large body of people united by common descent, history, culture, or language, inhabiting a particular country or territory:
+>
+> **State**
+>
+> - 1 [a different concept, not relevant here]
+>
+> - 2a  a nation or territory considered as an organized political community under one government
+>
+> - 2b an organized political unit or area forming part of a federal republic
+>
+> - 3 the civil government of a country
+>
+> **Country**
+>
+> - a nation with its own government, occupying a particular territory:
 
 The problem with the definition of “nation” is that most units that are called “nations”, like Canada and the United States, have never been nations ― they are a mix of many ancestries, cultures and languages[ Even though they have imposed official languages based on those dominant among their first immigrants, many other languages are spoken.]. Many of the units that make up the United Nations are actually more like meaning 2b of “state”, especially since they all have somewhat sovereign governments which is not required by the definition.
 
@@ -31,4 +45,7 @@ I will use capitalised State to mean the sub-sovereign unit and will use  lower-
 Note that names like “Canada” are taken to refer either to the country, the government or even independent bodies recognised by the government such as sports teams (as in “Canada is the second largest country by area”, “Canada voted against the motion in the United Nations” or “Canada won the Women’s Hockey gold medal”). This allows for propaganda in which the government encourages the confusion between usages to build patriotism which it then uses to claim support for its policies.
 
 ***
-[Previous: Reason for Doubt](reasonfordoubt) \| [Next: Countries as Systems](countriesassystems) \| [Return to Table of Contents](./index)
+
+[Previous: Framework: Global Systems](../globalsystems) | [Next: Countries as systems ](countriesassystems) | [Return to Table of Contents](../../index)
+
+***

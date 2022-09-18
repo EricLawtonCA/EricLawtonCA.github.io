@@ -13,6 +13,6 @@ As a white settler, I require my governments to honour this commitment to , ackn
 
 I will continue to pester my governments about any failures to honour these treaties or to meet obligations such as act on the recommendations of the Truth and Reconciliation Commission and the Report on Missing and Murdered Indigenous Women and Children and to provide clean drinking water at all homes on reserves and funding for education at least equal to those in nearby municipalities.
 ***
-[Next: Why read this](whywriting) \| [Return to Table of Contents](./index)
+[Next: What is this workbook?](Introduction/rationale/whatisthiswork) \| [Return to Table of Contents](./index)
 
 ***
