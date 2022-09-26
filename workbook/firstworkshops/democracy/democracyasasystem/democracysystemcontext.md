@@ -14,11 +14,9 @@ Figure 1: Democracy system context ― outline
 
 Government itself is shown as a system and the three main interested parties  are shown on the diagram with their interactions. These are:
 
-The people of the country, the general public, which includes the voters. The government both governs the people and in a democracy, supposedly works for the people.
-
-Public knowledge centres, which inform the public by developing, holding and disseminating public knowledge; these include universities, schools and libraries.
-
-Independent influencers, which affect democracy by using influence beyond those available to voters, such as corporations and wealthy people.
+1. The people of the country, the general public, which includes the voters. The government both governs the people and in a democracy, supposedly works for the people.
+2. Public knowledge centres, which inform the public by developing, holding and disseminating public knowledge; these include universities, schools and libraries.
+3. Independent influencers, which affect democracy by using influence beyond those available to voters, such as corporations and wealthy people.
 
 I have also shown two other parties: the media and political parties, which overlap with the main four. The media are partly public knowledge centres and political parties are both an integral part of government and also external influencers.
 
