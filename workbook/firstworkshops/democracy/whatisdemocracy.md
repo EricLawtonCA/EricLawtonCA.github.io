@@ -26,13 +26,16 @@ The Economist Intelligence Unit (EIU) compiles an annual report on democracy, wh
 The EIU assigns countries a score based on various criteria which it documents in its annual report, “Report on Democracy”. It uses 60 factors to rate countries. Others, such as the Freedom House use a different set, but most agree that there is spectrum of democracies.
 
 This shows that democracy is not a binary concept. There are no criteria by which we can simply classify a system of government as a democracy or not; there are degrees of democracy, starting with what portion of the population is deemed eligible. Clearly, the same formal institutions can be more or less democratic, even from this basic definition, if the eligible members include more or fewer members of the population.
-E
-ven the spectrum — a linear range assigning a single score — is arbitrary because they have to decide which of the factors should carry more weight. Is a score of 3 out of 5 on a free press more important to being a democracy than 3 out of 5 on having an independent elections management body? There is some value in simplifying things like this, both to make it easier to understand and to do comparisons between institutions and over time for one institution but we shouldn’t lose sight of the fact that there are many variables involved and there is a multi-dimensional range of democracies, real and imagined.
+Even the spectrum — a linear range assigning a single score — is arbitrary because they have to decide which of the factors should carry more weight. Is a score of 3 out of 5 on a free press more important to being a democracy than 3 out of 5 on having an independent elections management body? There is some value in simplifying things like this, both to make it easier to understand and to do comparisons between institutions and over time for one institution but we shouldn’t lose sight of the fact that there are many variables involved and there is a multi-dimensional range of democracies, real and imagined.
 
 Why should we limit the definition to “government”? There are many decisions taken that directly affect people’s lives, that are taken by people and institutions outside government. Restricting democracy to government and excluding it from the workplace, from health care, from the market is part of conservative ideology and is related to their constant resistance to extending more power to the people.  The Stanford Encyclopedia of Philosophy agrees:
 >we intend for this definition to cover many different kinds of groups and decision-making procedures that may be called democratic. So there can be democracy in families, voluntary organizations, economic firms, as well as states and transnational and global organizations[ https://plato.stanford.edu/entries/democracy/].
 
 Some people are in favour of ‘small government’, by which they mean shrinking the role of government. This shifts many decisions outside government, so this means that the country is less democratic.  Those places where health care is managed by the state are surely more democratic than those where it is managed by private providers and by insurance corporations? Regardless of whether it is true that services are provided more efficiently, in some sense, by private industry, it is clearly true that the people have far less say in decision making than the insurance companies that replace government funding. Especially for most people whose employers decided which insurance company to use for their employees and give only a limited range of options.
+
+So if two countries are otherwise identical but in one the healthcare system is managed by a democratic government and in the other by private insurance companies and healthcare providers, the first is more democratic than the other.
+
+Similarly, if two countries are otherwise identical but many businesses are democratically run by co-operatives and the other by capitalists who are the sole decision makers, the first is more democratic. If two countries are otherwise identical but in one, pollution is heavily regulated and inspected, either by government or by independent industry agreement and in the other the air and water are foul, the first is more democratic.
 
 It is not the fault of the dictionaries that the definition is limited to governments, because most people use it that way. It is a systemic issue within capitalist countries that people do not even see it as a possibility to make the rest of their society more democratic. Within this workbook, I will use the phrase “broader democracy” to refer to extensions of democracy beyond government, where the context does not make it clear that I mean that.
 
@@ -94,6 +97,6 @@ The goal is to provide both a better, more comprehensive definition and some bet
 A critical look at definitions is only one step, but is important to clarify our thinking.
 
 ***
-[Previous: Reflections on Workshops on Countries](../nationstates/reflectcountry1) \| Next: **UnderConstruction**<!--[Next:  Generic Systems Context analysis](systemcontext) -->\| [Return to Table of Contents](../../index)
+[Previous: Reflections on Workshops on Countries](../nationstates/reflectcountry1) \| [Next:  The Context for Government by Representative Democracy](democracyasasystem/democracysystemcontext) -->\| [Return to Table of Contents](../../index)
 
 ***
