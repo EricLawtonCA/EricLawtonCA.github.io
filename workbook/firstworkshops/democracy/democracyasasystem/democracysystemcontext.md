@@ -27,6 +27,6 @@ Political parties are partly government and partly independent influencers becau
 They are also organizations outside of government, carrying out fund-raising, selection of election candidates and organising support during elections. They also sometimes pretend to develop policy at conventions, though usually their elected members at best treat this policy as advisory rather than binding, regardless of how many members voted for it.
 
 ***
-[Previous: What Is Democracy](whatisdemocracy) \| Next: **Under Construction** <!-- [Next: Workshop on Countries](../../firstworkshops/nationstates/clarifyingconcepts) -->| [Return to Table of Contents](../../../index)
+[Previous: What Is Democracy](../whatisdemocracy) \| Next: **Under Construction** <!-- [Next: Workshop on Countries](../../firstworkshops/nationstates/clarifyingconcepts) -->| [Return to Table of Contents](../../../index)
 
 ***
