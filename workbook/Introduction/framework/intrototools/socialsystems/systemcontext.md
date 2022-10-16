@@ -1,4 +1,4 @@
-# framework
+# Framework
 
 ## Introduction to tools for Thinking
 

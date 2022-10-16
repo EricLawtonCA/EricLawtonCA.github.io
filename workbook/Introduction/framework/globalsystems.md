@@ -22,7 +22,7 @@ Similarly, the economy may be a mix of communist, capitalist, socialist, coopera
 
 Note that both the governance systems and the forms of economy can be mixed and that  they are mostly independent of each other, though less so for some forms such as communism or anarchism[ At least, that’s what I see at this early point in the workbook.].
 
-It is important to note that there is no global government. There are some global governance structures but they are severely limited by the power of the  sovereign states, which I will call countries for reasons which I will explain in the first workshop.
+Note that there is no global government. There are some global governance structures but they are severely limited by the power of the  sovereign states, which I will call countries for reasons which I will explain in the first workshop.
 
 ***
 [Previous: Describing the Internals of Social Systems](intrototools/socialsystems/sysinternals) \| [Next: Workshop on Countries](../../firstworkshops/nationstates/clarifyingconcepts)| [Return to Table of Contents](../../../index)

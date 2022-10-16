@@ -5,8 +5,14 @@
 ### System Context ― the view from outside
 
 As I argued in the previous workshop, democracy should not be assessed merely on the basis of a government.
-However, in the following workshops, I will look at the  for a country’s government to be considered a democracy at all, it must have some democratic institutions such as an elected government (however suspect those elections might be). My first attempt at a diagram of the context for those institution was rather complicated, so I simplified it to what I considered to be the major elements. As usual, I have depicted them in a system context diagram, with the content fully described in the text below.  
 
+However, in this and the following workshops, I will look at the systems supporting democracy in government.
+
+For a country’s government to be considered a democracy at all, it must have some democratic institutions such as an elected government (however suspect those elections might be).
+
+In this workshop, I have attempted to apply the system context diagram tool from [Introduction to Tools, Social Systems Context](../../../Introduction/framework/intrototools/socialsystems/systemcontext). This should provide the overall context for the detailed discussions in the following workshops.
+
+My first attempt at a diagram of the context for those institutions was rather complicated, so I simplified it, for the purposes of this introductory workshop, to what I considered to be the major elements. As usual, the content of the diagram is fully described in the text below.  
 
 <img src="/assets/images/Democratic Institutions - outline.jpg" alt="Outline system context diagram for representative democracy , as described in the text" class=diagram />
 
