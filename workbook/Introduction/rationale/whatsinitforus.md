@@ -4,11 +4,11 @@
 
 ### What’s In It For Us?
 
-Collaboration has two main benefits. The first is that two brains are better than one, the second is that for the more complex problems that face us, the thoughts of individual thinkers are of little value. They require more interdisciplinary, system-level thinking and acting than any individual is capable, even if the individual makes no errors which is impossible. As H.L. Menken said,
+Collaboration has two main benefits. The first is that two brains are better than one, the second is that for the more complex problems that face us, the thoughts of individual thinkers are of little value. They require more interdisciplinary, system-level thinking and acting than any individual is capable of, even if the individual makes no errors which is impossible. As H.L. Menken said,
 
 >For every complex problem, there is an answer that is clear, simple, and wrong.
 
-Unfortunately, those answers are easy for politicians to sell, so we need to arm ourselves against them. 
+Unfortunately, those answers are easy for politicians to sell, so we need to arm ourselves against them.
 
 My view of the world is that we are social beings. That means that it is better both for ourselves and for others that we have to care for each other as individuals and that we design and cultivate the social systems we live in, in a way that allows everyone to thrive.
 
