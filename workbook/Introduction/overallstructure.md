@@ -130,10 +130,9 @@ I use an initial set of thinking tools to analyse the state of the current syste
 
 I took the original MAPE loop idea from the design of autonomic systems: computer systems that could adjust themselves to meet a limited change in circumstances according to pre-programmed rules, shifting resources from one task to another, but unable to change their design or to critique those rules. Fortunately, the engineers designing such systems already used a different word — autonomic — to refer to that limited capability, so the use of the word adaptive can be reserved to mean those more flexible systems  which can adapt more radically to change, including the ability to change their own design.
 
-I will introduce the first two outer boxes here: values and requirements, and an introduction to some of the tools, because I think that will be necessary background before jumping into the workshops. The rest of the framework can be explained as needed at the beginning of the workshops that use them.
 
 ***
-[Previous: Rationale: What’s in it for me?](../rationale/whatsinitforou) \| [Next: Values and Requirements](valuesandrequirements) \| [Return to Table of Contents](../../index)
+[Previous: Rationale: What’s in it for us?](../Introduction/rationale/whatsinitforus) \| [Next: Workshops: Structure of the Workshops](../firstworkshops/structureofworkshops) \| [Return to Table of Contents](../index)
 
 ***
 
