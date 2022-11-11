@@ -1,6 +1,6 @@
 # Workbook Introduction
-## Framework
-### Overall Structure
+
+## Overall Structure
 
 In this section, I explain the structure of most workshops and a framework for the workbook as a whole.
 

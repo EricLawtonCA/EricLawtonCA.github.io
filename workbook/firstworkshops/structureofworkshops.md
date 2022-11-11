@@ -11,6 +11,6 @@ A more complete description of each tool will eventually be found in the tools r
 The tools will be introduced in the first workshop that uses it, and there will be a link to the reference. The description in the reference section will become more complete as the workshops continue and may even change if a workshop review shows that there is a problem with the tool. If this happens, I will go back to the workshop and update it to match. So if you revisit this site you may find that existing sections have been updated since you last read them. I will discuss the more important updates in the blog that is part of this site.
 
 ***
-[Previous: Framework: Overall Structure](../Introduction/overallstructure) \| **Under Construction** \| [Return to Table of Contents](../index)
+[Previous: Framework: Overall Structure](../Introduction/overallstructure) \| [Next: Global Systems ](globalsystems/globalsystems) \| [Return to Table of Contents](../index)
 
 ***

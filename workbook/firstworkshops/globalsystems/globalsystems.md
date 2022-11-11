@@ -1,6 +1,4 @@
-# Workbook Introduction
-## framework
-### Global Human Systems
+# Global Human Systems
 
 Our planet is dominated by two main human social systems: a division of most of the land area and its bordering seas into sovereign states and by a global economy which is mostly capitalist.
 
@@ -25,6 +23,6 @@ Note that both the governance systems and the forms of economy can be mixed and 
 Note that there is no global government. There are some global governance structures but they are severely limited by the power of the  sovereign states, which I will call countries for reasons which I will explain in the first workshop.
 
 ***
-[Previous: Describing the Internals of Social Systems](intrototools/socialsystems/sysinternals) \| [Next: Workshop on Countries](../../firstworkshops/nationstates/clarifyingconcepts)| [Return to Table of Contents](../../../index)
+[Previous: The Structure of the Workshops](../structureofworkshops) \| [Next: Review of this Workshop](globalsystemsreview)| [Return to Table of Contents](../../../index)
 
 ***

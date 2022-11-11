@@ -1,13 +1,12 @@
-# First Workshops: Global Systems
+# Nation-States
 
-## Nation-States
+## Clarifying the Concepts
 
-### Clarifying the Concepts
+The first workshop on Global Systems sketched the main human social systems operating on a global level, including countries or nation-states. In this workshop, I am going to clarify the concepts and explain why I am going to use these two terms interchangeably and reserve the related concept of “nation” for social systems like Indigenous First Nations.
 
-Now that I have laid the groundwork in the introduction, we can start the workshops.
 As mentioned in the introduction, we will go round a cycle of workshops using simpler versions of tools to confirm their utility, then refining the tools, or discarding them, based on how useful they were.
 
-I will work through the global systems at the end of the introduction, starting with the “countries” into which the world is divided (except for Antarctic and the oceans outside territorial limits). This first workshop applies some linguistic tools to help understand the concepts of nation, sovereign state or “country”.
+This workshop applies some linguistic tools to help understand the concepts of nation, sovereign state or “country”.
 
 The words “Country”, “State” or “Nation” tend to be used almost interchangeably instead of making some useful distinctions which can help with the analysis. As is often the case, some of the interested parties have an interest in blurring the distinctions.
 
@@ -46,6 +45,6 @@ Note that names like “Canada” are taken to refer either to the country, the 
 
 ***
 
-[Previous: Framework: Global Systems](../globalsystems) | [Next: Countries as systems ](countriesassystems) | [Return to Table of Contents](../../index)
+[Previous: Framework: Global Systems Workshop Review](../globalsystems/globalsystemsreview) | [Next: Workshop Review ](clarifyingconceptsreview) | [Return to Table of Contents](../../index)
 
 ***
