@@ -19,5 +19,5 @@ However, if you are going to fine-tune a definition for specific areas of study,
 * [Countries: Clarifying the Concepts](../../../firstworkshops/nationstates/clarifyingconcepts)
 
 ***
-Previous: **Under Construction** | [Next: Definitions: Dictionaries and Beyond](languagetools/dictionaries) | [Return to Table of Contents](../../../../index)
+Previous: [Countries: Clarifying the Concepts](../../../firstworkshops/nationstates/clarifyingconceptsreview) | **Under Construction** | [Return to Table of Contents](../../../index)
 ***
