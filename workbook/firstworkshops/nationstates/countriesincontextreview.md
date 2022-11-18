@@ -11,6 +11,7 @@ I did confirm that it was a better fit than Donella Meadows’ assertion that �
 I’m not quite sure what to do with “Interested parties” just yet. I was wondering whether they are a person or other system, or the role they play. But on reflection, I think external parties are a person or other system, whereas internal parties need to be distinguished by role, so I will show that in the next workshop on the internals of countries and in another model I have under construction for use in a later workshop. Once I've tried it out, I'll explain it in that later workshop. I have another section under construction for the tools reference to explain what I mean by “model”, in more detail.
 
 ***
-[Previous: Workshop: Countries in Context](countriesincontext) \| Next: Inside Countries (**Under Construction**) <!-- [Next: Workshop: Inside Countries](insidecountries) -->\| [Return to Table of Contents](../../index)
+
+| [Previous: Workshop: Countries in Context](countriesincontext) | Next: Inside Countries (**Under Construction**) <!-- [Next: Workshop: Inside Countries](insidecountries) --> | [Return to Table of Contents](../../index) |
 
 ***
