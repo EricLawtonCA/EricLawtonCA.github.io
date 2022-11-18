@@ -17,6 +17,7 @@ However, if you are going to fine-tune a definition for specific areas of study,
 ### Links to Workshops
 
 * [Countries: Clarifying the Concepts](../../../firstworkshops/nationstates/clarifyingconcepts)
+* [Countries in context](../../../firstworkshops/nationstates/countriesincontext)
 
 ***
 Previous: [Countries: Clarifying the Concepts](../../../firstworkshops/nationstates/clarifyingconceptsreview) | **Under Construction** | [Return to Table of Contents](../../../index)

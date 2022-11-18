@@ -39,6 +39,8 @@ The word “state” has three related meanings. It can be a sub-sovereign unit 
 
 Although in the Oxford English Dictionary definition a country is a nation, this is different from normal usage. “This country” is used by residents to refer to the UK, the USA or Canada, even though they are not nations, so in this work I will feel free use the word “country” to mean something closer to the definition 2a of a state: the whole organized system whether an actual nation or just based on a claimed territory.  For example: “in this country, it is legal to …”.
 
+Just to muddy the waters, I will still keep use “national” as an adjective even though it blurs the distinction between country and nation but that is the common usage, as in “national anthem”.
+
 I will use capitalised State to mean the sub-sovereign unit and will use  lower-case, two words “the state” as a near synonym for “the government”.
 
 Note that names like “Canada” are taken to refer either to the country, the government or even independent bodies recognised by the government such as sports teams (as in “Canada is the second largest country by area”, “Canada voted against the motion in the United Nations” or “Canada won the Women’s Hockey gold medal”). This allows for propaganda in which the government encourages the confusion between usages to build patriotism which it then uses to claim support for its policies.

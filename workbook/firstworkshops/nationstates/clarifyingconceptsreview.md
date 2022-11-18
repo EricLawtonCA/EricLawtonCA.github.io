@@ -13,6 +13,6 @@ It will take a few more workshops to see if the definitions I have introduced ar
 
 ***
 
-[Previous: Workshop: Countries, clarifying the concepts](clarifyingconcepts) | [Next: Countries as systems ](countriesassystems) | [Return to Table of Contents](../../index)
+| [Previous: Workshop: Countries, clarifying the concepts](clarifyingconcepts) | [Next: Countries in Context ](countriesincontext) | [Return to Table of Contents](../../index) |
 
 ***
