@@ -1,6 +1,10 @@
-# First Workshops on Sovereign States
+# Countries
 
-## Reflections on workshops
+## Miscellaneous thoughts
+
+<!-- Not sure where to use this yet. -->
+
+### Reflections on the Workshop
 
 As promised in the introduction, I am following each few of the workshops by a look at how well the tools used in them served their purpose.
 
