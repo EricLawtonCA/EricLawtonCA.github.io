@@ -17,4 +17,10 @@ This is not a criticism of dictionaries; their job is to distil the usage they f
 
 I introduced this tool in the workshop [Sovereign States: Clarifying the Concepts](/workbook/firstworkshops/nationstates/clarifyingconcepts).
 
-There is new workshop content. I have significantly changed the initial workshops to reflect the new structure; the content is the same. I have also added some new ones on sovereign states to introduce the first tool specifically for systems thinking rather than generic tools that apply broadly. That is the System Environment Diagram. Although I use a lot of visual tools, I have done my best to make sure that the description of the diagram is sufficiently clear and complete that anyone who cannot use or prefers not to use visual representations will be able to get equivalent value.
+Each tools reference section will end with links to each of the workshops that use the tools, so that it is easy to find examples of how it is used.
+
+There is new workshop content. I have significantly changed the initial workshops to reflect the new structure; the content is the same. I have also added some new ones on sovereign states to introduce the first tool specifically for systems thinking rather than generic tools that apply broadly.
+
+That is the System Environment Diagram. Although I use a lot of visual tools, I have done my best to make sure that the description of the diagram is sufficiently clear and complete that anyone who cannot use or prefers not to use visual representations will be able to get equivalent value.
+
+I have not yet started the tool reference for that; it’s my next job. It was beginning to take more time managing all the links. When that happens I look for a tool to manage that and if I can’t find one, I make one. For now as simple spreadsheet of links and especially missing links is a big help in managing that.
