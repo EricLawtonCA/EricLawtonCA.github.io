@@ -14,6 +14,9 @@ This is similar to the scientific practice of taking common terms like “energy
 
 However, if you are going to fine-tune a definition for specific areas of study, you need to make sure it fits well with the other concepts you are using, in a coherent theory.
 
+There are further limitations to dictionary definitions when it comes to understanding how words and phrases are used by others, outside of such carefully controlled contexts. I will cover some of these in the other tools in this section.
+xxx
+
 ### Links to Workshops
 
 * [Countries: Clarifying the Concepts](../../../firstworkshops/nationstates/clarifyingconcepts)
