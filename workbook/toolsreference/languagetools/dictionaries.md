@@ -14,18 +14,20 @@ This is similar to the scientific practice of taking common terms like “energy
 
 However, if you are going to fine-tune a definition for specific areas of study, you need to make sure it fits well with the other concepts you are using, in a coherent theory.
 
-<<<<<<< HEAD
 There are further limitations to dictionary definitions when it comes to understanding how words and phrases are used by others, outside of such carefully controlled contexts. I will cover some of these in the other tools in this section.
-yyy
-xxx
 
-=======
->>>>>>> parent of 4940769 (test change one line)
+Test installation
+
 ### Links to Workshops
 
-* [Countries: Clarifying the Concepts](../../../firstworkshops/nationstates/clarifyingconcepts)
-* [Countries in context](../../../firstworkshops/nationstates/countriesincontext)
+* [Countries: Clarifying the Concepts](../../firstworkshops/nationstates/clarifyingconcepts)
+* [Countries in context](../../firstworkshops/nationstates/countriesincontext)
 
 ***
-Previous: [Countries: Clarifying the Concepts](../../../firstworkshops/nationstates/clarifyingconceptsreview) | **Under Construction** | [Return to Table of Contents](../../../index)
+
+| Previous: [Countries: Clarifying the Concepts][def] | Next: **Under Construction** | [Return to Table of Contents](../../index) |
+
 ***
+
+
+[def]: ../../firstworkshops/nationstates/clarifyingconceptsreview
