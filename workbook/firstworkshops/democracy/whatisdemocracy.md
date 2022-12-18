@@ -89,15 +89,18 @@ My solution started with three main steps:
 3. Look for some other questions which would be relevant to determining whether the word applies to the entities we intend to apply it to, such as the those in places like the Economist Intelligence Unit’s Democracy Index, which has its own detailed questions, then identify where the definition fails to answer the questions. These provide for an extended definition.
 
 The definition I propose for now is based on the questions at the beginning of this investigation:
-> Democratic (adjective): the degree to which a system provides for all the individual people whose lives are affected by the decisions made within the system to participate in those decisions, in proportion to the extent to which they are affected by the decisions, and taking into account all the decisions that get made in some sense by all the institutions within the system.
+> Democratic (adjective): the degree to which a system provides for all the individual people whose lives are affected by the decisions made within the system to participate effectively in those decisions, in proportion to the extent to which they are affected by the decisions, and taking into account all the decisions that get made in some sense by all the institutions within the system.
 
 The clause about “in proportion to the extent to which they are affected” has an effect in diminishing the tyranny of the majority or the powerful, for example, in legislating control over abortions that do not affect them, or suppressing rights of minority groups.
 
 The goal is to provide both a better, more comprehensive definition and some better underlying principles for democracy if we are to break out of the current claims to be democracies, which serve more as a marketing campaign to persuade us that we already live much closer to full democracy than we do, in spite of the fact that some people have vastly more power than most people put together.
 
+The word “effectively” is intended to include “being fully informed of the facts and expert opinions which are important in making the decisions”.
+
 A critical look at definitions is only one step, but is important to clarify our thinking.
 
 ***
-[Previous: Reflections on Workshops on Countries](../nationstates/reflectcountry1) \| [Next:  The Context for Government by Representative Democracy](democracyasasystem/democracysystemcontext) -->\| [Return to Table of Contents](../../index)
+
+| [Previous: Reflections on Workshops on Countries](../nationstates/reflectcountry1) | [Next:  The Context for Government by Representative Democracy](democracyasasystem/democracysystemcontext) | [Return to Table of Contents](../../index) |
 
 ***
