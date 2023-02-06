@@ -16,7 +16,6 @@ However, if you are going to fine-tune a definition for specific areas of study,
 
 There are further limitations to dictionary definitions when it comes to understanding how words and phrases are used by others, outside of such carefully controlled contexts. I will cover some of these in the other tools in this section.
 
-Test installation
 
 ### Links to Workshops
 
