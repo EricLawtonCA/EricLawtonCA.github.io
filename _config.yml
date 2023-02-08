@@ -1,11 +1,12 @@
 name: Eric Lawton
-title: Better social systems for better lives
-description: A social and political philosophy workbook
+title: Social Systems Thinking
+description: A workbook in the use of tools for thinking about social systems
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
 github: [metadata]
-remote_theme: pages-themes/midnight@v0.2.0
+
 plugins:
   - jekyll-seo-tag
 
 theme: jekyll-theme-midnight
+# remote_theme: pages-themes/midnight@v0.2.0

@@ -1,6 +1,7 @@
 ---
 title: Philosophy Workbook
 author: Eric Lawton
+layout: default
 ---
 
 # Acknowledgements
